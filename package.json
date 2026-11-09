@@ -1,0 +1,1 @@
+{"name":"bluetooth-3d-lab","private":true,"scripts":{"build:graphics":"esbuild graphics-entry.js --bundle --minify --format=iife --outfile=app/graphics-bundle.js"},"dependencies":{"three":"0.160.0"},"devDependencies":{"esbuild":"0.25.12"}}
